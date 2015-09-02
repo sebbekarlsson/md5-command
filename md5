@@ -1,1 +1,1 @@
-python /usr/bin/md5bin $1
+python /usr/bin/md5py $1
