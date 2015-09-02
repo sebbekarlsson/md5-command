@@ -1,4 +1,4 @@
-##md5 command for Mac
+##md5 terminal command for Mac
 > ###How to use:
 > Run this command:
 >
@@ -14,3 +14,4 @@
 > Run this command:
 >
 	bash uninstall.sh
+
